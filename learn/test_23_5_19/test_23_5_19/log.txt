@@ -1,0 +1,10 @@
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=0
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=1
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=2
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=3
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=4
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=5
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=6
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=7
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=8
+file:C:\Users\w2608\Documents\source\repos\C\learn\test_23_5_19\test_23_5_19\test_23_5_19.c line=87 date:May 19 2023 time:15:39:09 i=9
